@@ -52,6 +52,6 @@
  <br><br>
 <p>👀 &nbsp;Visitors</p>
  <br>
-<img align="left" src="https://profile-counter.glitch.me/natrixdev/count.svg" />
+<img align="left" src="https://profile-counter.glitch.me/neocropolis/count.svg" />
 
 
